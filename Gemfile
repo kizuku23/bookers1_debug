@@ -67,3 +67,5 @@ group :test do
   gem "factory_bot_rails"
   gem 'faker'
 end
+
+gem 'pry-byebug'
